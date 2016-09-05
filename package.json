@@ -1,0 +1,24 @@
+{
+  "name": "videoplayer",
+  "version": "1.0.0",
+  "description": "Sportbox/MatchTV player",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "player",
+    "sportbox",
+    "matchtv",
+    "live",
+    "translation",
+    "video",
+    "hls",
+    "rtps"
+  ],
+  "author": "Ildar Nazarov",
+  "license": "ISC",
+  "devDependencies": {
+    "video.js": "^5.11.6"
+  }
+}
